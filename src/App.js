@@ -1,8 +1,8 @@
 import './App.css';
-import InputComponent from './components/InputComponent';
-import NameComponent from './components/NameComponent';
+import InputComponent from './01_components/InputComponent';
+import NameComponent from './01_components/NameComponent';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
         <h1>Our first demo application</h1>
