@@ -1,6 +1,6 @@
 import './App.css';
-import InputComponent from './01_components/InputComponent';
-import NameComponent from './01_components/NameComponent';
+import InputComponent from './InputComponent';
+import NameComponent from './NameComponent';
 
 const App = () => {
   return (

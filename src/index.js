@@ -2,18 +2,18 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import App from './App';
-import App2 from './App2';
-import App3 from './App3';
-import App4 from './App4';
+import App from './01_components/App';
+import App2 from './02_components/App2';
+import App3 from './03_components/App3';
+import App4 from './04_components/App4';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <>
     {/* <App /> */}
     {/* <App2 /> */}
-    <App3 />
-    {/* <App4 /> */}
+    {/* <App3 /> */}
+    <App4 />
   </>
 );
 

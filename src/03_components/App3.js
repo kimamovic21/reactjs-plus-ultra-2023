@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './App3.css';
-import TodoList from './03_components/TodoList';
+import TodoList from './TodoList';
 
 const App3 = () => {
 
